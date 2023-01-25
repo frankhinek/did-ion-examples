@@ -1,0 +1,31 @@
+{
+  "name": "did-ion-examples",
+  "version": "0.0.1",
+  "description": "Examples of did:ion operations",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankhinek/did-ion-examples.git"
+  },
+  "keywords": [
+    "ION",
+    "decentralized",
+    "identity"
+  ],
+  "author": "Frank Hinek",
+  "license": "MIT",
+  "dependencies": {
+    "@decentralized-identity/ion-tools": "1.0.3"
+  },
+  "files": [
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/frankhinek/did-ion-examples/issues"
+  },
+  "homepage": "https://github.com/frankhinek/did-ion-examples#readme",
+  "engines": {
+    "node": ">= 16"
+  },
+  "engineStrict": true
+}
